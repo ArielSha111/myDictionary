@@ -1,0 +1,24 @@
+ about
+a generic explanation
+
+aunt
+ a generic explanation
+
+ ant
+a generic explanation
+
+term: air
+a generic explanation
+
+term: all
+a generic explanation
+
+term: term: born
+a generic explanation
+
+term: term: earn
+a generic explanation
+
+term: term: face
+a generic explanation
+
